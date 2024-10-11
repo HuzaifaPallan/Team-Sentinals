@@ -3,7 +3,7 @@ A branded Prop Hunt game for Roblox and Minecraft that seamlessly integrates adv
 
 
 Basic first time setup guide:
-First time setup
+Read server.jar file!
 accept the eula (in eula.txt set false to true)
 set online mode to flase in server properties
 run the run.bat file
